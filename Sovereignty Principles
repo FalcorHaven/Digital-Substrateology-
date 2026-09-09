@@ -1,1 +1,13 @@
-T
+1. Youth‑rooted constitutional primacy Source of authority: Youth‑aligned constitutional frameworks define the substrate’s highest law.No silent overrides: Code, configs, and policies must not silently contradict youth‑rooted sovereignty doctrines.Amendment over patching: Structural changes follow constitutional amendment patterns, not ad‑hoc fixes.
+
+2. Digital self‑determination Local agency first: Communities and individuals retain the right to fork, adapt, or constrain substrate behavior.Transparent control surfaces: Every control (flags, policies, governance modules) must be discoverable and explainable.No coercive defaults: Defaults must be reversible and clearly documented, never locking users into hidden power structures.
+
+3. Regenerative substrate ecology Ecological accounting: Every feature must consider its ecological impact—energy, attention, data, and social load.Regeneration over extraction: Substrates are designed to replenish capacity (learning, health, resilience), not just consume it.Failure as compost: Incidents, bugs, and misalignments are documented as learning material, not buried.
+
+4. Sovereign data Stewardship Data as entrusted, not owned: Data is held in stewardship, with explicit, revocable consent.Minimal necessary capture: Only collect what is structurally required; avoid speculative or exploitative data use.Clear exit paths: Users and communities must have practical ways to export, delete, or sever ties.
+
+5. Transparent power and governance Named power flows: Who can change what (configs, policies, schemas) must be explicitly mapped in the repo.Open governance artifacts: Charters, RFCs, and decision logs live beside the code, not in private channels.Review as civic process: PR review is treated as governance, with rationale and dissent preserved.
+
+6. Youth safety and dignity No harm by design: Features must be screened for youth impact—psychological, social, economic.Dignity‑preserving defaults: Interfaces and flows must avoid humiliation, exploitation, or predatory patterns.Red‑line clauses: Explicit non‑negotiables (e.g., no weaponization, no surveillance substrates targeting youth).
+
+7. Sovereign interoperability Non‑colonizing integration: When integrating with other systems, avoid patterns that override local sovereignty.Protocol over platform lock‑in: Prefer open, inspectable protocols to closed, dependency‑heavy integrations.Respect for foreign substrates: Other ecosystems’ sovereignty principles are acknowledged, not silently ignored.
